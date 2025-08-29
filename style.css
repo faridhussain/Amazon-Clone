@@ -157,3 +157,27 @@ span{
 .system{
     margin-left: 3px;
 }
+
+/* Hero Section */
+.hero-section{
+    background-image: url(images/amazon\ header\ photo.jpg);
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.hero-message{
+    background-color: white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    width: 97%;
+    margin-bottom: 100px;
+}
+.hero-message a{
+    text-decoration: none;
+    color: #007185;
+}
