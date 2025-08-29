@@ -127,3 +127,33 @@ span{
 .nav-cart i{
     font-size: 30px;
 }
+
+/* Panel */
+
+.panel{
+    display: flex;
+    background-color: #232f3e;
+    height: 40px;
+    color: white;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.panel-all{
+    display: flex;
+    width: 60px;
+    height: 40px;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.panel-ops p{
+    display: inline;
+    margin-right: 15px;
+}
+.panel-ops{
+    width: 100%;
+    font-size: 14px;
+}
+.system{
+    margin-left: 3px;
+}
